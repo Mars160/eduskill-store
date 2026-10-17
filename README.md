@@ -45,6 +45,8 @@
 | [文档索引](docs/README.md) | 阅读入口与维护规则 |
 | [问题定义](docs/requirements/problem_definition.md) | 场景、角色、痛点与价值 |
 | [产品需求](docs/requirements/product_requirements.md) | 功能范围、用户故事与验收条件 |
+| [功能需求规范](docs/requirements/functional_spec.md) | F：角色、功能分解与领域模型 |
+| [非功能需求规范](docs/requirements/nonfunctional_spec.md) | 质量约束、度量口径与验收建议（草案） |
 | [贡献指南](CONTRIBUTING.md) | 评审与 Angular 提交规范 |
 | [安全报告流程](SECURITY.md) | 私密反馈与敏感数据保护 |
 | [变更记录](CHANGELOG.md) | 未发布文档工作 |

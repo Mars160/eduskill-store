@@ -8,6 +8,8 @@ InnoJudge 是面向初中物理实验操作的 AI 辅助视频评测项目。当
 | --- | --- | --- |
 | [问题定义](requirements/problem_definition.md) | 场景、用户、问题与价值 | 需求整理 |
 | [产品需求](requirements/product_requirements.md) | 功能范围与验收条件 | 草案，部分决策待确认 |
+| [功能需求规范](requirements/functional_spec.md) | F：角色、功能分解与领域模型 | 规划，待评审 |
+| [非功能需求规范](requirements/nonfunctional_spec.md) | URPS：易用性、可靠性、性能、支持性 | Issue #2 草案，建议目标待评审 |
 
 ## 协作入口
 
